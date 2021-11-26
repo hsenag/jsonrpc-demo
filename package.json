@@ -1,0 +1,12 @@
+{
+    "name": "test",
+    "version": "0.0.1",
+    "dependencies": {
+        "ts-node": "^10.4.0",
+        "vscode-jsonrpc": "file:/home/ganesh/github/vscode-languageserver-node/jsonrpc/vscode-jsonrpc-6.0.0.tgz"
+    },
+    "devDependencies": {
+        "@types/node": "^16.11.10",
+        "typescript": "^4.5.2"
+    }
+}
